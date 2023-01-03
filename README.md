@@ -1,3 +1,3 @@
 # Rare Cell Types Identification from Single-cell RNA Sequencing Data
 
-This is my thesis project in which I developed a novel methodology to determine rare cell types from single-cell RNA sequencing data  under the supervision of one of my professors Dr. Monalisa Mandal.
+This is my thesis project in which I worked on a novel methodology to determine rare cell types from single-cell RNA sequencing data  under the supervision of one of my professors Dr. Monalisa Mandal. Rare cells are the cell types that occur in very small numbers within tissues while other cell types surrounding them are highly abundant. Some examples of rare cell types include circulating tumour cells, cancer stem cells, endothelial progenitor cells, antigen-specific T cells, invariant natural killer T cells etc. Rare cells play an important role in the diagnosis and prognosis of many cancers, prenatal diagnosis, diagnosis of viral infections, mediating immune responses etc.
