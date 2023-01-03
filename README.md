@@ -1,3 +1,2 @@
-# Rare-Cell-Types-Identification
+# Rare Cell Types Identification from Single-cell RNA Sequencing Data
 
-This is my thesis project
